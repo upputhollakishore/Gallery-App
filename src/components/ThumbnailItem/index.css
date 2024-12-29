@@ -1,0 +1,11 @@
+/* Write your code here. */
+.thumbnail-button {
+  background-color: transparent;
+  border: none;
+  border-width: 0px;
+}
+.thumbnail-container {
+  list-style-type: none;
+  display: flex;
+  margin-right: 5px;
+}
